@@ -1,0 +1,28 @@
+name: brianvellmure
+favicon: null
+layout_spectrum: 0.17177441832609475
+typography_spectrum: 0.8844731810968369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.793671103194356
+  lightness: 0.9904641674365848
+  saturation: 0.9563784820493311
+  rhythmicContrast: 0.11876819026656449
+purpose: []
